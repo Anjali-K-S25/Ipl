@@ -1,0 +1,20 @@
+# IPL Dashboard React App
+
+This is a React-based web application that displays IPL teams, their recent matches, and match details. It uses a public API to fetch IPL data and showcases each team's latest matches and performance.
+
+## Features
+
+- Homepage listing all IPL teams
+- Team page showing:
+  - Team banner
+  - Latest match details
+  - Recent matches
+- Responsive design with React Router-based navigation
+- Error handling for invalid routes (404 Page)
+
+## Tech Stack
+
+- React
+- React Router DOM
+- CSS
+- Public API from CCBP
